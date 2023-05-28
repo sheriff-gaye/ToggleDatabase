@@ -1,5 +1,5 @@
 <div>
-    <div class="font-sans antialiased text-gray-900">
+    <div class="font-sans antialiased text-gray-900 mt-8">
         <div class="flex flex-col items-center pt-5 pb-5 sm:justify-center">
             <h2 class="text-2xl font-bold uppercase">Toggle Switch to Database</h2>
 
